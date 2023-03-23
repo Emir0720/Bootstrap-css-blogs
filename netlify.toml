@@ -1,0 +1,4 @@
+[[redirects]]
+from ="/*"
+to = "amazing-css.html"
+status = 200
